@@ -40,9 +40,10 @@
     "@babel/core": "^7.22.17",
     "@babel/preset-env": "^7.22.15",
     "@babel/preset-react": "^7.22.15",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
-    "sinon": "^6.3.3"
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "sinon": "^6.3.3",
+    "stream-browserify": "^3.0.0"
   },
   "browserslist": {
     "production": [
@@ -57,3 +58,4 @@
     ]
   }
 }
+
